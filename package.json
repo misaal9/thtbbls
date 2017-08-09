@@ -6,12 +6,11 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
-    "mongoose": "^4.11.6"
-  },
-  "devDependencies": {
+    "mongoose": "^4.11.6",
     "babel-cli": "^6.24.1",
     "nodemon": "^1.11.0"
   },
+  "devDependencies": {},
   "engines": {
     "node": "6.9.5"
   },
